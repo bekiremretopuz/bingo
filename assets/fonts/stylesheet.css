@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Topaz-8-remake';
+    src: url('Topaz-8-remake.eot');
+    src: url('Topaz-8-remake.eot?#iefix') format('embedded-opentype'),
+        url('Topaz-8-remake.woff2') format('woff2'),
+        url('Topaz-8-remake.woff') format('woff'),
+        url('Topaz-8-remake.ttf') format('truetype'),
+        url('Topaz-8-remake.svg#Topaz-8-remake') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
